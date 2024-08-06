@@ -14,12 +14,6 @@ This Weather App is a simple and intuitive application built using HTML, CSS, an
 - **CSS**: Styling the app with a clean and modern design.
 - **JavaScript**: Fetching weather data from a third-party API and dynamically updating the UI.
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open `index.html` in your browser.
-3. Enter the name of a city in the search bar to view its current weather.
-
 ## Future Enhancements
 
 - Adding a 7-day weather forecast.
